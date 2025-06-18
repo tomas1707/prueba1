@@ -1,4 +1,6 @@
-Tomas
+remote: Permission to tomas1707/prueba1.git denied to msctomasgonzalezalvaradoTomas
 Alberto
 Claudia
 Paola
+Alejandra
+Mireya
